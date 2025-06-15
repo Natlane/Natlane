@@ -26,6 +26,46 @@
 
 ---
 
+### 🛠️ Tools & Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+### 🔗 Find Me On
+
+<p>
+  <a href="https://github.com/Natlane"><img src="https://img.shields.io/badge/GitHub-Natlane-181717?style=flat&logo=github" /></a>
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://discord.com/users/yourDiscordID"><img src="https://img.shields.io/badge/Discord-Natlane%230000-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Coming%20Soon-FF0000?style=flat&logo=youtube" /></a>
+  <a href="https://instagram.com/your_instagram"><img src="https://img.shields.io/badge/Instagram-Coming%20Soon-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
+
+> *Some links will be updated soon — stay tuned!* 🔧
+
+---
+
+### 📊 GitHub Stats
+
+<details>
+  <summary>Click to expand</summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natlane&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Natlane&theme=github-dark" alt="GitHub Streak" />
+</p>
+
+</details>
+
+---
+
 ### ☕ Random Vibes
 
 > "Knowledge is power, but knowing *how* to use it is power++."
