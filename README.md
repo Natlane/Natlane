@@ -13,6 +13,7 @@
 - 💬 Always down to talk about tech, hacking, OSINT, and weird facts
 - 📫 Reach me? Just find me IRL... or chat with me online 🕵️
 - 😄 Pronouns: **he/him**
+- ❤️ Fun fact: I’ve put my whole heart into someone, and I’m not taking it back.
 - ⚡ Fun fact: I love learning new things — **but I’m incredibly lazy** 🛋️
 
 ---
@@ -42,7 +43,7 @@
 <p>
   <a href="https://github.com/Natlane"><img src="https://img.shields.io/badge/GitHub-Natlane-181717?style=flat&logo=github" /></a>
   <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://discord.com/users/yourDiscordID"><img src="https://img.shields.io/badge/Discord-Natlane%230000-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/ZX7ayZd2"><img src="https://img.shields.io/badge/Discord-shidomino%233388-5865F2?style=flat&logo=discord&logoColor=white" /></a>
   <a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Coming%20Soon-FF0000?style=flat&logo=youtube" /></a>
   <a href="https://instagram.com/your_instagram"><img src="https://img.shields.io/badge/Instagram-Coming%20Soon-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
@@ -69,7 +70,7 @@
 ### ☕ Random Vibes
 
 > "Knowledge is power, but knowing *how* to use it is power++."
-
+> "Also... I may look chaotic, but my heart? Already fully invested in someone."
 ---
 
 <p align="center">
