@@ -70,7 +70,10 @@
 ### ☕ Random Vibes
 
 > "Knowledge is power, but knowing *how* to use it is power++."
+> 
 > "Also... I may look chaotic, but my heart? Already fully invested in someone."
+>
+> "I love to do what for my future💰"
 ---
 
 <p align="center">
