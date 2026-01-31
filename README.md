@@ -45,10 +45,10 @@
 
 <p>
   <a href="https://github.com/Natlane"><img src="https://img.shields.io/badge/GitHub-Natlane-181717?style=flat&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/kgs-abdul-fatah-revaldo-a9396b344"><img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kgs-abdul-fatah-revaldo-a9396b344"><img src="https://img.shields.io/badge/LinkedIn-KgsAbdulFatahRevaldo-blue?style=flat&logo=linkedin" /></a>
   <a href="https://discord.gg/ZX7ayZd2"><img src="https://img.shields.io/badge/Discord-shidomino%233388-5865F2?style=flat&logo=discord&logoColor=white" /></a>
-  <a href="https://youtube.com/@KgsAbdulFatahR"><img src="https://img.shields.io/badge/YouTube-Coming%20Soon-FF0000?style=flat&logo=youtube" /></a>
-  <a href="https://instagram.com/ald_ss1"><img src="https://img.shields.io/badge/Instagram-Coming%20Soon-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://youtube.com/@KgsAbdulFatahR"><img src="https://img.shields.io/badge/YouTube-@KgsAbdulFatahR-FF0000?style=flat&logo=youtube" /></a>
+  <a href="https://instagram.com/ald_ss1"><img src="https://img.shields.io/badge/Instagram-ald_ss1-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
 > *Some links will be updated soon — stay tuned!* 🔧
